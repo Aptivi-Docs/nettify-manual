@@ -8,6 +8,8 @@
   * [☀ Weather Forecast](usage/how-to-use/weather-forecast.md)
   * [📻 SHOUTcast Radio Info](usage/how-to-use/shoutcast-radio-info.md)
   * [🗞 RSS Feeds](usage/how-to-use/rss-feeds.md)
+  * [📘 English Dictionary](usage/how-to-use/english-dictionary.md)
+  * [📧 Address Investigator](usage/how-to-use/address-investigator.md)
 * [⚒ How it works](usage/how-it-works/README.md)
   * [🌄 Weather Forecast Internals](usage/how-it-works/weather-forecast-internals.md)
   * [📻 Radio Info Internals](usage/how-it-works/radio-info-internals.md)
