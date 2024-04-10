@@ -1,8 +1,8 @@
 ---
-description: Any special characters?
+description: News right at your fingertips!
 ---
 
-# 🗞 RSS Feeds
+# 🗞️ RSS Feeds
 
 If you want to get all RSS feeds from a single site, you can use the `RSSTools` class from the `Nettify.Rss` namespace.
 
@@ -47,3 +47,16 @@ This class contains the following properties:
 * `ArticleLink`: Link to the article
 * `ArticleDescription`: Description or summary of the article
 * `ArticleVariables`: Additional article parameters
+
+## Searching RSS feeds
+
+When it comes to searching RSS feeds, Nettify uses Feedly to give you a functionality that allows you to search Feedly for all the RSS feeds. For instance, if you're searching for Linux using this feature, it'll return all feeds that have to do with Linux. Check out Feedly's website if you don't know what it is yet:
+
+{% embed url="https://feedly.com/" %}
+
+You can use the following functions:
+
+* `GetRssFeeds(string searchTerm)`
+* `GetRssFeedsAsync(string searchTerm)`
+
+Once you call one of these functions, you can use this array of `SearcherInstance` to get information about the resultant feeds. If you go further and get an RSS feed instance using this searcher instance (`GetFeedFromSearcher(SearcherInstance feed)` and `GetFeedFromSearcherAsync(SearcherInstance feed)`), you can get an instance of `RSSFeed` that you can use to get articles.
