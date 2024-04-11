@@ -7,7 +7,6 @@
 
 * [🖥️ How to use](usage/how-to-use/README.md)
   * [☀️ Weather Forecast](usage/how-to-use/weather-forecast.md)
-  * [📻 SHOUTcast Radio Info](usage/how-to-use/shoutcast-radio-info.md)
   * [🗞️ RSS Feeds](usage/how-to-use/rss-feeds.md)
   * [📘 English Dictionary](usage/how-to-use/english-dictionary.md)
   * [📧 Address Investigator](usage/how-to-use/address-investigator.md)

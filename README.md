@@ -4,7 +4,7 @@ description: Welcome to Nettify!
 
 # 👋 Welcome
 
-Welcome to Nettify! It's a C# library that allows you to use various Internet-based tools, such as getting your city's weather forecast at the current time, reading and viewing all RSS feed articles, and getting your favorite SHOUTcast-powered internet radio information.
+Welcome to Nettify! It's a C# library that allows you to use various Internet-based tools, such as getting your city's weather forecast at the current time, reading and viewing all RSS feed articles, and getting your ISP mail configuration information.
 
 To use this library, go to any page in the left side of the screen.
 
