@@ -1,8 +1,9 @@
 ---
 description: News right at your fingertips!
+icon: newspaper
 ---
 
-# 🗞️ RSS Feeds
+# RSS Feeds
 
 If you want to get all RSS feeds from a single site, you can use the `RSSTools` class from the `Nettify.Rss` namespace.
 

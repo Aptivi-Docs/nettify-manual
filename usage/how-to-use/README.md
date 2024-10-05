@@ -1,8 +1,9 @@
 ---
 description: How do I use this library?
+icon: computer
 ---
 
-# 🖥️ How to use
+# How to use
 
 This library contains a plethora of features that allow you to use internet-based tools. They are intended to improve your productivity and accelerate your text generation. All the features require an internet connection to be usable.
 

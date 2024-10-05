@@ -1,8 +1,9 @@
 ---
 description: How does it work?
+icon: sun
 ---
 
-# 🌄 Weather Forecast Internals
+# Weather Forecast Internals
 
 This library has two separate functions:
 

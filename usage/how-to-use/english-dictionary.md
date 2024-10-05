@@ -1,8 +1,9 @@
 ---
 description: Define "dictionary".
+icon: book
 ---
 
-# 📘 English Dictionary
+# English Dictionary
 
 Using this feature is very simple! Just use the `Nettify.EnglishDictionary` namespace in any piece of code you want to use the feature, as in: `using Nettify.EnglishDictionary;`
 

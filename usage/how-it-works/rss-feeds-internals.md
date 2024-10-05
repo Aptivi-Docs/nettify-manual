@@ -1,8 +1,9 @@
 ---
 description: How does it work?
+icon: newspaper
 ---
 
-# 📰 RSS Feeds Internals
+# RSS Feeds Internals
 
 When you try to manually refresh an `RSSFeed` instance using either one of the following functions:
 

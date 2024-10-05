@@ -1,8 +1,9 @@
 ---
 description: We need to filter and build the VT sequences.
+icon: sun
 ---
 
-# ☀️ Weather Forecast
+# Weather Forecast
 
 If you want to get weather forecast information in your city, you can use the `WeatherForecast` class from the `Nettify.Weather` namespace that contains:
 
