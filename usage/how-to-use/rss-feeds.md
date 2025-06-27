@@ -57,7 +57,13 @@ When it comes to searching RSS feeds, Nettify uses Feedly to give you a function
 
 You can use the following functions:
 
-* `GetRssFeeds(string searchTerm)`
-* `GetRssFeedsAsync(string searchTerm)`
+* `GetRssFeeds(string searchTerm, int feeds)`
+* `GetRssFeedsAsync(string searchTerm, int feeds)`
 
 Once you call one of these functions, you can use this array of `SearcherInstance` to get information about the resultant feeds. If you go further and get an RSS feed instance using this searcher instance (`GetFeedFromSearcher(SearcherInstance feed)` and `GetFeedFromSearcherAsync(SearcherInstance feed)`), you can get an instance of `RSSFeed` that you can use to get articles.
+
+{% hint style="info" %}
+You can specify how many feeds to search up to 100,000 feeds.
+{% endhint %}
+
+A SearcherInstance class contains both `Description` and `FullDescription` properties, where the former returns the first line of the description, and the latter describes the whole feed.
