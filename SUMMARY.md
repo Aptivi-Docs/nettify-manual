@@ -2,17 +2,15 @@
 
 * [Welcome](README.md)
 * [Breaking Changes](breaking-changes.md)
+* [Installation and Upgrade](https://app.gitbook.com/s/Id4bob6wnHvpX4zbVVtI/csharp-libraries/installation-and-upgrade)
 
 ## Usage
 
-* [How to use](usage/how-to-use/README.md)
-  * [Weather Forecast](usage/how-to-use/weather-forecast.md)
-  * [RSS Feeds](usage/how-to-use/rss-feeds.md)
-  * [English Dictionary](usage/how-to-use/english-dictionary.md)
-  * [Address Investigator](usage/how-to-use/address-investigator.md)
-* [How it works](usage/how-it-works/README.md)
-  * [Weather Forecast Internals](usage/how-it-works/weather-forecast-internals.md)
-  * [RSS Feeds Internals](usage/how-it-works/rss-feeds-internals.md)
+* [Weather Forecast](usage/weather-forecast.md)
+* [RSS Feeds](usage/rss-feeds.md)
+* [English Dictionary](usage/english-dictionary.md)
+* [Address Investigator](usage/address-investigator.md)
+* [Quotes](usage/quotes.md)
 
 ***
 
