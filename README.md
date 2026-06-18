@@ -14,6 +14,12 @@ To use this library, go to any page in the left side of the screen.
 Below is the release history of the library:
 
 {% updates format="full" %}
+{% update date="2026-06-18" %}
+## <mark style="color:$primary;">v1.7.4</mark>
+
+<mark style="color:yellow;">General improvements and bug fixes</mark>
+{% endupdate %}
+
 {% update date="2026-02-05" %}
 ## <mark style="color:$primary;">v1.7.3</mark>
 
